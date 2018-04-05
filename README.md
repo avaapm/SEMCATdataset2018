@@ -7,7 +7,7 @@ This repository is to download the SEMCATdataset 2018 for the publication "Senel
 
  CITATION:
  
- If you use SEMCAT in your research, please cite:
+ If you use SEMCAT in your research, please cite (will be updated after publication):
 
                 @ARTICKLE {SEMCAT,
         author       = "Senel L. K., Utlu I., Yucesoy V., Koc A., Cukur T.",
