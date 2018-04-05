@@ -10,10 +10,10 @@ This repository is to download the SEMCATdataset 2018 for the publication "Senel
  If you use SEMCAT in your research, please cite (will be updated after publication):
 
                 @ARTICKLE {SEMCAT,
-        author       = "Senel L. K., Utlu I., Yucesoy V., Koc A., Cukur T.",
-        title        = "Semantic Structure and Interpretability of Word Embeddings",
-        year         = "2018",
-        organization = "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+                author       = "Senel L. K., Utlu I., Yucesoy V., Koc A., Cukur T.",
+                title        = "Semantic Structure and Interpretability of Word Embeddings",
+                year         = "2018",
+                organization = "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
                 }
 
 
