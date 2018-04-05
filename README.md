@@ -6,9 +6,9 @@ This repository is to download the SEMCATdataset 2018 for the publication "Senel
  Last Update: 5.04.2018
 
  CITATION:
- If you use ANKAT in your research, please cite:
+ If you use SEMCAT in your research, please cite:
 
-                @ARTICKLE {ANKAT,
+                @ARTICKLE {SEMCAT,
 
         author       = "Senel L. K., Utlu I., Yucesoy V., Koc A., Cukur T.",
 
